@@ -1,0 +1,1 @@
+Passify is a password generator that acts like a digital locksmith, crafting unique and robust combinations of letters, numbers, and symbols to safeguard your online accounts. It's like having a guardian angel for your passwords, ensuring they're tough for cyber intruders to crack while keeping your digital life safe and sound.
